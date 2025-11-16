@@ -1,8 +1,8 @@
-📊 Student Marks Analysis
+## 📊 Student Marks Analysis
 
 A simple data analysis project using NumPy, Pandas, Matplotlib, and Seaborn to explore student performance and marks distribution.
 
-🔍 Overview
+## 🔍 Overview
 
 Loaded and cleaned the dataset
 
@@ -14,7 +14,7 @@ Checked correlations between subjects
 
 Created visualizations (Histogram, Bar Chart, Heatmap)
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 NumPy
 
@@ -24,14 +24,14 @@ Matplotlib
 
 Seaborn
 
-🚀 How to Run
+## 🚀 How to Run
 pip install numpy pandas matplotlib seaborn
 python analysis.py
 
 
 Or open the Jupyter Notebook file.
 
-📈 Visuals Included
+## 📈 Visuals Included
 
 Marks distribution
 
@@ -41,8 +41,9 @@ Correlation heatmap
 
 Scatter/Line plots
 
-👨‍💻 Author
+## 👨‍💻 Author
 
-Afaque Azam
+### Afaque Azam
 B.Tech Student | Data Analysis Enthusiast
+
 If you like this project, don’t forget to ⭐ the repo!
